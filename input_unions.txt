@@ -1,0 +1,4454 @@
+name_en
+Amtali (Barguna)
+Arpangashia
+Atharagashia
+Chowra
+Haldia (Amtali)
+Kukua
+Shulisakhali
+Bamana
+Bukabunia
+Dauatala
+Ramna Sadar
+Ayla Patakata
+Badarkhali
+Barguna
+Burirchar
+Dhalua (Barguna)
+Gaurichanna
+Keorabunia
+M.Baliatali
+Naltona
+Phuljhury
+Betagi Sadar
+Bibichini
+Bura Mazumdar
+Hosnabad (Betagi)
+Kazirabad
+Mokamia
+Sarishamuri
+Charduani
+Kakchira
+Kalmegha (Pathar)
+Kathaltali
+Nachna Para
+Patharghata
+Raihanpur
+Barabagi (Tal)
+Chhotabagi
+Karaibaria
+Nishanbaria
+Poncha Koralia
+Sarikkhali
+Sonakata
+Baghda
+Bakal
+Gaila
+Rajihar
+Ratnopur
+Chadpasa
+Dehergoti
+Jahangirnagar
+Kedarpur
+Madhabpasa
+Rahmatpur
+Bharpasa
+Charadi
+Charamaddi
+Darial
+Dudhal
+Durgapasha
+Faridpur
+Garuria
+Kalaskathi
+Kobai
+Nalua
+Niamati
+Padrishibpur
+Rangsree
+Baisari
+Banaripara
+Bisharkandi
+Chakhar
+Iluhar
+Saliabakpur
+Syedkathi
+Udaykathi
+Chadpura
+Chandramohan
+Charbaria
+Charkawa
+Charmonai
+Jagua
+Kashipur
+Raypasa karapur
+Sayestabad
+Tungibaria
+Barthi
+Batajor
+Chadsi
+Khanjapur
+Mahilara
+Nolchira
+Sharikal
+Barajalia
+Dhulkhola
+Guabariya
+Harinathpur
+Hizla Gourabdi
+Memania
+Alimabad
+Andharmanik
+Bhasanchar
+Biddyanandapur
+Chanpur
+Charakoria
+Chargopalpur
+Darirchar Khajuriya
+Gobindapur
+Jangalia
+Joynagar
+Lata
+Mehendiganj
+North Ulaniya
+South Ulaniya
+Sreepur
+Batamara
+Chorkalekha
+Gachua
+Kazirchar
+Muladi
+Nazirpur
+Shafipur
+Bamrail
+Barakotha
+Guthiya
+Harta
+Jalla
+Otra
+Satla
+Shikarpur
+Sholak
+Alinagar (Bhol)
+Bapta
+Bhelu Miah
+ChorSamia
+Dakshin Dighaldi
+Dhania
+Ilisha
+Kachia
+Paschim Ilisha
+Rajapur (Bhola)
+Sibpur
+Uttar Dighaldi
+Veduria
+Bara Manika
+Deula
+Gangapur (Borhan)
+Hasannagar
+Kachia (Borhan)
+Kutuba
+Pakshia
+Sachara
+Tabagi
+Abdullahpur (Char)
+Abubakarpur
+Adhyaksha Nazrulnagar
+Ahammadpur
+Aminabad
+Aslampur
+Charkalami
+Charkukurimukuri
+Charmadraj
+Charmanika
+Dhalchar
+Eowazpur
+Hazariganj
+Jahanpur (Char)
+Jinnagarh
+Mujibnagar
+Nilkamal (Char)
+Nurabad
+Omarpur (Char)
+Osmanganj
+Rasulpur (Charfassion)
+Bhabanipur
+Charkhalifa
+Charpata
+Dakhin Joynagar
+Hazipur
+Madanpur
+Medua
+Syedpur
+Uttar Joynagar
+"Badarpur (Lalmohan)
+"
+Char Bhuta
+Dhali Gaurnagar
+Farazganj
+Kalma (Lal)
+Lalmohan
+Lord Hardings
+Paschim Char Umed
+Ramaganj
+Hajirhat (Manp)
+Manpura
+Sakuchia (Dakshin)
+Sakuchia (Uttar)
+Bara Malangchara
+Chanchra (Tamu)
+Chandpur (Tazumuddin)
+Shambhupur
+Sonapur (Tazumuddin)
+Bashanda
+Binaykathi
+Gabkhan Dhansiri
+Gava Ramchandrapur
+Kewra
+Kirtipasa
+Nabogram
+Nathullabad
+Ponabalia
+Sekherhat
+Amuya
+Aurabuniya
+Chechri Rampur
+Kathaliya
+Patikhalghata
+Soulajaliya
+Dopdapiya
+Kulkathi
+Kushangal
+Magor
+Mollarhat
+Nachanmahal
+Ranapasa
+Sidhakathi
+Subidpur
+Vairabpasa
+Baraiya
+Galua
+Mathbari
+Rajapur
+Saturiya
+Suktagar
+Adabaria (Bau)
+Baga
+Bauphal
+Chandradip
+Daspara
+Dhulia
+Kachhipara
+Kalaiya
+Kalisuri
+Kanakdia
+Keshabpur (Bau)
+Madanpura (Bau)
+Najirpur
+Naomala
+Surjamoni
+Alipur (Das)
+Bahrampur
+Banshbaria
+Betagi Sankipur
+Char Borhan
+Dashmina
+Rangopaldi
+Angaria (Dum)
+Lebukhali
+Muradia
+Pangashia
+Sreerampur
+Amkhola
+Bakulbaria
+Charbiswas
+Charkajal
+Chikanikandi
+Dakua
+Gajalia
+Galachipa
+Golkhali
+Kalagachia
+Panpatti
+Ratanditaltoli
+Baliatoli
+Chakamaiya
+Champapur
+Dalbuganj
+Dhankhali
+Dhulasar
+Lalua
+Lata Chapli
+Mahipur
+Mithaganj
+Nilganj
+Tiakhali
+Amragachhia
+Deuli Subidkhali
+Kakrabunia
+Madhabkhali
+Majidbaria
+Mirzaganj
+Auliapur (Pat)
+Badarpur (Pat.Sadar)
+Bara Bighai
+Bhuria
+Chhota Bighai
+Itabaria
+Jainkathi
+Kalikapur (Pat)
+Kamalapur
+Laukathi
+Lohalia
+Madarbunia
+Marichbunia
+Bara Baisdia
+Chalitabunia
+Char Montaz
+Chhotta Baisdia
+Moudubi
+Rangabali
+Bhitabaria
+Dhaoa
+Gauripur (Bhan)
+Ikri
+Nudmulla Shialkathi
+Telikhali
+Balipara
+Chandipur
+Indurkani Sadar
+Parerhat
+Pottasi
+Amrajuri
+Chira Para
+Kawkhali sadar
+Sayna Raghunathpur
+Shialkathi
+Amragachia
+Baramasua
+Betmor Rajpara
+Daudkhali
+Dhanisafa
+Halta Gulishakhali
+Mathbaria
+Mirukhali
+Sapleja
+Tikikata
+Tuskhali
+Deulbari Dobra
+Dirgha
+Kolardoania
+Malikhali
+Mativanga
+Najirpur Sadar
+Sekhmatia
+Shakharikathi
+Sreramkatti
+Atghar Kuriana
+Baldia
+Daihari
+Guarekha
+Jalabari
+Samudaykathi
+Sarengkathi
+Sohagdal
+Sutiakathi
+Swarupkathi
+Akhaura Dakshin
+Kadamtala
+Kalakhali
+Sangkarpasha
+Shariktola
+Sikhdar Mallik
+Tona
+Akhaura Uttar
+Araisidha
+Dharkhar
+Maniand
+Mogra
+Ashuganj
+Ayubpur (Ashuganj)
+Char Chartala
+Durgapur (Ashu)
+Lalpur (Ashu)
+Sharifpur (Ashu)
+Talsahar Paschim
+Tarua
+Ayubpur (Ban)
+Banchharampur
+Dariadaulat
+Darikandi
+Fardabad
+Manikpur (Banch)
+Pahariakandi
+Rupasdi
+Saifullakandi
+Salimabad (Banch)
+Sonarampur
+Tezkhali
+Ujan Char
+Bishnupur (Bijoy)
+Budhanti
+Champaknagar
+Chandura
+Char Islmapur
+Harashpur
+Ichhapur
+Paharpur (Bijoy)
+Pattan
+Singerbil
+Basudeb
+Budhal
+Machhihata
+Majlishpur
+Natai Dakshin
+Natai Uttar
+Ramrail
+Sadekpur
+Shuhilpur
+Sultanpur (Brah)
+Talsahar
+Badair
+Bayek
+Binauti
+Gopinathpur (Kas)
+Kaimpur
+Kasba Paschim
+Kharera
+Kuti
+Mehari
+Mulgram (Kas)
+Barail
+Barikandi
+Biddyakut
+Birgaon
+Bitghar (Tiara)
+Ibrahimpur (Nab)
+Junedpur
+Kaitala Dakshin
+Kaitala Uttar
+Krishnanagar
+Laur Fatehpur
+Nabinagar Paschim
+Nabinagar Purba
+Natghar
+Rasullabad
+Ratanpur
+Salimganj
+Satmura
+Shibpur (Nab)
+Shyamgram
+Sreerampur (Nab)
+Bhalakut
+Burishwar
+Chapairtala
+Chatalpar
+Dhar Mandal
+Fandauk
+Goalnagar
+Gokarna
+Guniak
+Haripur Nasi)
+Kunda
+Nasirnagar
+Purbabagh
+Aruail
+Chunta
+Kalikachchha
+Noagaon (Sar)
+Pak Shimul
+Paniswar
+Sarail sadar
+Shahbazpur
+Shahjadapur
+Ashikati
+Baghadi
+Balia (Chand)
+Bishnupur (Chand)
+Chandra
+Hanar Char
+Ibrahimpur
+Kalyanpur
+Lakshmipur Model
+Maishadi
+Rajrajeshwar
+Rampur (Chand)
+Shah Mahmudpur
+Tarpur Chandi
+Balithuba (Paschim)
+Balithuba (Purba)
+Char dukhia (Paschim)
+Char dukhia (Purba)
+Faridganj (Dakshin)
+Gobindapur (Dakshin)
+Gobindapur (Uttar)
+Gupti (paschim)
+Gupti (Purba)
+Paikpara (Dakshin)
+Paikpara (Uttar)
+Rupsa (Dakshin)
+Rupsa Uttar)
+Subidpur (Purba)
+Subidpur (Raschim)
+Char Bhairabi
+Dakshin Algi Durgapur
+Gazipur (Haim)
+Haim Char
+Nilkamal
+Uttar Algi Durgapur
+Bakila
+Dadoshgram
+Dakshin Gandharbapur
+Dakshin Kalocho
+Hajiganj sadar
+Hatila Pachim
+Hatila Purba
+Paschim Barkul
+Purba Barkul
+Uttar Gandharabpur
+Uttar Kalocho
+Uttar Rajargaon
+Ashrafpur
+Bitara
+Gohat(Dakshin)
+Gohat(Uttar)
+Kachua(Dakshin)
+Kachua(Uttar)
+Kadla
+Karaia
+Palakhal Model Union
+Pathair
+Sachar
+Sahadebpur (Paschim)
+Baganbari
+Durgapur
+Eklashpur (Matlab)
+Farajikandi
+Fatepur (Purbo)
+Gazra
+Islamabad
+Jahirabad
+Kalakanda
+Mohanpur
+Paschim Fatepur
+Sadullapur
+Shatnal
+Sultanabad
+Dajshin Upadi
+Khadergaon
+Narayanpur
+Nayergaon (Dakshin)
+Nayergaon (Uttar)
+Uttar Upadi
+Chitosi (East)
+Chitosi (West)
+Meher (Dakshin)
+Meher (Uttar)
+Roysree (Dakshin)
+Roysree (Uttar)
+Suchi Para (Dakshin)
+Suchi Para (Uttar)
+Tamta Dakshin
+Tamta Uttar
+Anowara
+Bairag (Part)
+Barakhain
+Barasata (Ano)
+Battali
+Burumchhara
+Chatari
+Haildhar
+Juidandi
+Paraikora
+Roypur (Ano)
+Baharchhara
+Bailchhari
+Chambal
+Chanua
+Gandamara
+Kalipur
+Katharia
+Khankamabad
+Puichari
+Pukuria
+Sadhanpur
+Saral
+Shekherkhil
+Shilkup
+Ahla Karaldanga
+Amuchia
+Charandwip
+Kadhurkhil
+Paschim Gomdandi
+Popadia
+Sarwatali
+Shakpura
+Srepur Kharandip
+Bailtali
+Barama
+Barkal
+Dhopachari
+Hashimpur
+Jowara
+Kanchanabad
+Satbaria
+Abdullahpur
+Baganbazar
+Baktapur
+Bhujpur
+Datmara
+Dharmapur
+Harualchari
+Jafarnagar
+Kanchan Nagar
+Lelang
+Nanupur
+Narayanhat
+Paindang
+Roshangiri
+Samitirhat
+Suabil
+Sundarpur
+Burischar
+Chikandandi
+Chipatali
+Dakshin Madarsha
+Dhalai
+Farhadabad
+Fatepur
+Forhadabad
+Grduara
+Guman Mardan
+Mekhal
+Mirzapur
+Shikarpur
+Uttar Madarsa
+Bara Uthan
+Char Lakshya
+Char Patharghata
+Juldha
+Sikalbaha
+Adhunagar
+Amirabad (Loh)
+Barahatia
+Charamba
+Chunati
+Kalauzan
+Lohagara Sadar
+Padua (Loha)
+Putubila
+Dhum
+Durgapur (Mir)
+Haitkandi
+Hinguli
+Ichhakhali
+Jorargank
+Karerhat
+Katachhara
+Khaiyachhara
+Maghadia
+Mayani
+Mirsharai
+Mithanala
+Osmanpur (Mir)
+Saherkhali
+Wahedpur
+Asia
+Baralia
+Bhatikhain
+Chhanhara
+Dakshin Bhurshi
+Dhalghat
+Habilas Dwip
+Haidgaon
+Janglukhain
+Kachuai
+Kasiais
+Kelishahar
+Kharana
+Kolagaon
+Kusumpura
+Sobhandandi
+Ziri
+Betagi
+Chandraghona Kadamtali
+Dakshin Rajanagar
+Hosnabad
+Islampur
+Kodala
+Lalanagar
+Mariamnagar
+Padua (Rang)
+Parua
+Pomara
+Rajanagar (Rang)
+Sarapbhata
+Silok
+Swanirbhar Rangunia
+Bagoan (Rao)
+Binajuri
+Chikdair
+Dabua
+Gahira
+Haladia
+Kadalpur
+Noa Para
+Noajispur
+Pahartali
+Paschim Guzara
+Purba Guzara
+Rauzan
+Urkirchar
+Amanullah
+Azimpur (Sand)
+Bauria
+Dirghapar
+Gachhua
+Haramia
+Harispur
+Kalapania
+Magdhara
+Maitbhanga
+Musapur(Sandwip)
+Rahmatpur (Sand)
+Santoshpur
+Sarikait
+Urirchar
+Amilais
+Bazalia
+Chadaha
+Charati
+Dharmapur(Satkania)
+Dhemsa
+Eochia
+Kaliais
+Kanchana
+Keochia
+Khagaria
+Madarsa
+Nalua (Satk)
+Paschim Dhemsa
+Puranagar
+Satkania
+Sonakania
+Banshbaria (Sita)
+Barabkunda
+Baraidhala
+Bhatiari
+Kumira
+Muradpur (Sita)
+Salimpur
+Sonaichhari
+Syedpur (Sit)
+Badarkhali (Chak)
+Bamu Bilchhari
+Bara Bheola(Paschim)
+Barabheola (Purba)
+Barabheola Manik Char
+Baraitali
+Chiringa
+Demusia
+Dulahazara
+Fasiakhali
+Harbang
+Kaiarbil
+Kakara
+Khutakhali
+Konakhali
+Lakhyarchar
+Saharbil
+Surajpur Manikpur
+Bharuakhali
+Chaufaldandi
+Idgaon
+Islamabad(Cox.Sadar)
+Islampur (Cox)
+Jalalabad (Cox. Sadar)
+Jhiloangia
+Khurushkul
+PM Khali
+Pokkhali
+Ali Akbar Deil
+Baraghop
+Dakshin Dhurung
+Kaiyarbil
+Lemashikhali
+Uttar Dhurung
+Bara Maheskhali
+Chhola Moheskhali
+Dhalghata
+Hoanak
+Kalarmarchhara
+Kutubjom
+Matarbari
+Shaplapur
+Bara Bakia
+Magnama
+Pekua
+Rajakhali
+Shilkhali
+Taitong
+Ujantia
+Chakmarkul
+Dakshin Mithachhari
+Fatekharkul
+Garjania
+Idgar
+Joarianala
+Kachhapia
+Kauarkhop
+Khuniapalong
+Rajarkul
+Rashid Nagar
+Baharchhara (Tek)
+Hoaikong
+Nhilla
+Sabrang
+Sent Martin
+Teknaf
+Haldia Palong
+Jalia Palong
+Palong Khali
+Raja Palong
+Ratna Palong
+Amratali
+Dakshin Durgapur
+Jagannathpur
+Kalir Bazar
+Panchthubi
+Uttar Durgapur
+Adda
+Adra
+Aganagar
+Bhabanipur
+Chitodda
+Dakshin Khosbash
+Dakshin Shilmuri
+Galimpur
+Jalam
+Lakshmipur
+Payalgachha
+Shakpur
+Uttar Khosbash
+Uttar Shilmuri
+Voucksar
+Brahman Para
+Chandla
+Dulalpur
+Madhabpur
+Malapara
+Sahebabad
+Shashidal
+Sidlai
+Bakshimul
+Bharella (North)
+Bharella (South)
+Burichang
+Mainamati
+Mokam
+Pir Jatrapur
+Rajapur
+Sholanal
+Bara Karai
+Barera
+Barkait
+Batagashi
+Dhamaiya
+Dollai Nawabpur
+Etbarpur
+Gallai
+Juag
+Keronkhal
+Mahichail
+Maijkhar
+Suhilpur
+Alkara
+Batisha
+Cheora
+Gholpasha
+Gunabati
+Jagannath Dighi
+Kalikapur
+Kankapait
+Kashinagar
+Munshirhat
+Shubhapur
+Sreepur
+Ujirpur
+Barpara
+Bijoypur
+Chauwara
+Galiwara (Dakshin)
+Galiwara (Uttar)
+Paschim Jorjanon
+Purbo Jorkanon
+Barapara
+Biteshar
+Dakshin Elliotganj
+Doulotpur
+Goalmari
+Gouripur
+Jinglatali
+Maruka
+Mohammadpur Paschim
+Mohammadpur Purba
+Padua
+Panchgachhia Paschim
+Sundalpur
+Uttar Daudkandi
+Uttar Elliotganj
+Barkamta
+Bhani
+Dakshin Gunaighar
+Dhamti
+Elahabad
+Fatehabad
+Fatehabad
+Jafarganj
+Mohonpur
+Rajmehar
+Rasulpur
+Subil
+Sultanpur
+Uttar Gunaighar
+Yusufpur
+Asadpur
+Bhasania
+Chanderchar
+Dulalpur
+Ghagutia
+Gharmora
+Joypur
+Mathabhanga
+Nilakhi
+Ajgara
+Bakoi (South)
+Gobindapur
+Kandirpar
+Laksam
+Modafforgonj (South)
+Mudapfarganj (North)
+Uttardah
+Baghmara(North)
+Baghmara(South)
+Bakoi (North)
+Belghar(North)
+Belghar(South)
+Bholain(North)
+Bholain(South)
+Perul (North)
+Perul (South)
+Baishgaon
+Bipulasar
+Dakshin Jhalam
+Hasnabad
+Khila
+Laxmanpur
+Maisatua
+Nather Petua
+Sarashpur
+Uttar Hawla
+Uttar Jhalam
+Barakanda
+Chalibhanga
+Chandonpur
+Gobindapur
+Luterchar
+Manikerchar
+Radhanagar
+Vaourkhola
+Akubpur
+Andikot
+Babutiparha
+Chapitala
+Chhaliakandi
+Dakshin Ramchandrapur
+Darora
+Dhamghar
+Jahapur
+Jatrapur
+Kamalla
+Muradnagar
+Paharpur
+Paschim Bangara
+Paschim Nabipur
+Paschim Purbadhair
+Purba Bangara
+Purba Nabipur
+Purba Purbadhair
+Sreekail
+Tonki
+Uttar Ramchandrapur
+Addra (South)
+Adra (North)
+Bakshaganj
+Bangadda
+Battoli
+Daulkhar
+Dhalua
+Heshakhal
+Makrabpur
+Maukara
+Peria
+Purbo Jodda
+Roicout (South)
+Roykot (North)
+Satbaria
+West Zodda
+Balarampur
+Bitikandi
+Jagatpur
+Jiarkandi
+Kalakandi
+Karikandi
+Majidpur
+Narandia
+Satani
+Ghopal
+Mahamaya
+Pathannagar
+Radhanagar
+Subhapur
+Daganbhuiyan
+Joylashkara
+Mathu Bhuiyan
+Purba Chandrapur
+Rajapur
+Ramnagar
+Sindurpur
+Yakubpur
+Baligaon
+Chanua
+Dhalia
+Dharmapur
+Farhadnagar
+Fazilpur
+Kalidah
+Kazirbag
+Lemua
+Matabi
+Panchgachhiya
+Sarishadi
+Amjadhat
+Anandapur
+Darbarpur
+Fulgazi
+G.M. Hat
+Munshirhat
+Baksh Mohammad
+Chithalia
+Mirzanagar
+Amirabad
+Bagdana
+Char Chandira
+Char Darbesh
+Char Majlishpur
+Mangalkandi
+Matiganj
+Nawabpur
+Sonagazi
+Char Falcon
+Char Kadira
+Char Kalkini
+Char Lawrence
+Char Martin
+Hajirhat
+Patwary Hat
+Shaeber Hat
+Torabganj
+Bangakha
+Basikpur
+Bhabaniganj
+Chandraganj
+Char Ruhita
+Charmonimohon
+Charsahi
+Dakshin Hamchadi
+Dalalbazar
+Datta Para
+Dighali
+Hajir Para
+Kushakhali
+Laharkandi
+Mandari
+Parbatinagar
+Shakchar
+Taoyariganj
+Tomchar
+Uttar Hamchadi
+Uttar Joypur
+Bhadur
+Bhatra
+Bholakot
+Chandipur
+Darbeshpur
+Ichhapur
+Kanchanpur
+Karpara
+Lamchar
+Noagaon
+Bara Kheri
+Char Abdullah
+Char Alexandar
+Char Algi
+Char Badam
+Char Gazi
+Char Poragacha
+Char Ramiz
+Bamni
+Char Ababil Dakshin
+Char Ababil Uttar
+Char Mohana
+Char Pata
+Dakshin Char Bangshi
+Keroa
+Roypur
+Sonapur
+Uttar Char Bangshi
+Alaiarpur
+Amanullapur
+Begumganj Sadar
+Chhayani
+Durgapur (Beg)
+Eklashpur
+Gopalpur (Beg)
+Hajipur(Begumganj)
+Jirtali
+Kadirpur(Begumganj)
+Kutubpur (Begumganj)
+Mir Warishpur
+Narottampur
+Rajganj
+Rasulpur (Begumganj)
+Sharifpur(Begumganj)
+Badalkot
+Hatpukuria Ghatlabag
+Khil Para
+Mohammadpur (Chat)
+Nayakhola
+Panchgaon
+Parkote
+Ramnarayanpur
+Sahapur (Chat)
+Char Elahi
+Char Fakira
+Char Hazari
+Char Kakra
+Char Parbati
+Musapur(Companiganj)
+Rampur (Comp)
+Sirajpur
+Burir Char (Hat)
+Chanandi
+Char Ishwar
+Char King
+Harani
+Jahajmara
+Nalchira (Hat)
+Nijum Dip
+Sonadia
+Sukh Char
+Tamaraddi
+Bataiya
+Chaprashirhat
+Dhanshalik
+Dhansiri
+Ghoshbag
+Narottampur
+Sundalpur (Kab)
+Anderchar
+Ashwadia
+Binodpur (Noa)
+Char Matua
+Dadpur
+Dharmapur
+Ewazbalia
+Kadir Hanif
+Kaladaraf
+Niazpur
+Noakhali
+Noannai
+Purba Char Matua
+Arjuntala
+Bejoybagh
+Chhatarpaia
+Dumuria
+Kabilpur
+Kadra
+Kesharpar
+Mohamadpur
+Nabipur
+Ambarnagar
+Amisha Para
+Baragaon (Sonai)
+Bazra (Sonai)
+Chashirhat
+Deoti
+Jayag
+Nadana
+Nateshwar
+Sonapur (Sonaimuri)
+Char Amanullah
+Char Bata
+Char Clerk
+Char Jabbar
+Char Jubille
+Char Wapda
+Mohammadpur (Subar)
+Purba Char Bata
+Amta
+Baishakanda
+Balia
+Chouhat
+Dhamrai
+Gangutia
+Jadobpur
+Kulla
+Kushura
+Nannar
+Rowail
+Sanora
+Somvag
+Suapur
+Sutipara
+Vararia
+Bilashpur
+Kusumhati
+Mahmudpur
+Moksedpur
+Narisha
+Noyabari
+Raipara
+Sutarpara
+Aganagar
+Basta
+Hojratpur
+Kalindi
+Kolatia
+Konda
+Rohitpur
+Shakta
+Shuvadda
+Taranagar
+Teghoria
+Zinjira
+Agla
+Bahra
+Bandura
+Baruakhali
+Boxnagar
+Churain
+Galimpur
+Jontrail
+Joykrishnopur
+Koilail
+Kolakopa
+Noyonosri
+Shikaripara
+Sholla
+Aminbazar
+Ashulia
+Birulia
+Bongaon
+Dhamsona
+Kaundia
+Pathalia
+Savar
+Shimulia
+Tetuljhora
+Vakuta
+Yearpur
+Alfadanga
+Bana
+Buraich
+Gopalpur (Alfadanga)
+Panchuria (Alfa)
+Tagarbanda
+Alogi
+Azimnagar (Bhang)
+Chandra (Bhang)
+Chumordi
+Gharua
+Hamirdi
+Kalamridha
+Kaolibera
+Manikdaha
+Nasirabad (Bhanga)
+Nurullaganj
+Tuzarpur
+Boalmari
+Chatul
+Dadpur (Boal)
+Ghoshpur
+Gunbaha
+Moyna
+Parameshwardi
+Rupapat
+Satair (Boal)
+Shekhar
+Char Bhadrasan
+Char Harirampur
+Char Jhaukanda
+Gazirtek
+Aliabad
+Ambikapur
+Chandpur (Far. Sadar)
+Char Madhabdia
+Decreerchar
+Gereda
+Ishan Gopalpur
+Kaijuri (Farid)
+Kanaipur
+Krishnanagar (Far. Sadar)
+Majchar
+North Channel
+Arpara (Madh)
+Bagat
+Dumain
+Gajna
+Jahapur (Madh)
+Kamarkhali
+Korakdi
+Megchami
+Noapara (Madh)
+Roypur
+Char Jasordi
+Dangi
+Kaichail
+Kodalia Shohidnagar
+Laskardia
+Phulsuti
+Pura Para
+Ramnagar (Nagar)
+Talma
+Akoter Char
+Bhashanchar
+Char Bishnupur
+Char Manair
+Char Nasirpur
+Dheukhali
+Krishnapur (Sad)
+Narikelbaria (Sad)
+Sadarpur
+Atghar
+Ballabhdi
+Bhawal
+Gatti
+Jadunandi
+Majhardia
+Ramkantapur
+Sonapur (Sal)
+Baria
+Bhawalgarh
+Mirzapur (Gaz. Sadar)
+Pirujali
+Atabaha
+Boali (Kalia)
+Chapair
+Dhaljora
+Fulbaria (Kal)
+Madhyapara (Kal)
+Mouchak
+Sreefaltali
+Sutrapur
+Bahadursadi
+Baktarpur
+Jamalpur (Kal)
+Jangalia (Gazi)
+Moktarpur
+Nagari
+Tumulia
+Barishaba
+Chandpur (Kapasia)
+Durgapur (Kapasia)
+Ghagotia
+Kapasia
+Karihata
+Rayed
+Sanmania
+Singhasree
+Targaon
+Toke
+Barmi
+Gazipur Sadar
+Gosinga
+Kaoraid
+Maona
+Prahladpur
+Rajabari
+Telihati
+Baulatali
+Borasi
+Chandra Dighalia
+Durgapur (Gop. Sadar)
+Gobra
+Gopinathpur (Gop. Sadar)
+Haridaspur
+Jalalabad (Gop. Sadar)
+Kajulia
+Karpara (Gopal)
+Katthi
+Latifpur (Gopal)
+Majhigati
+Nizra
+Paikkandi
+Raghunathpur (Gopal)
+Sahapur (Gopal)
+Satpar
+Suktail
+Ulpur
+Urafi
+Bethuri (Kash)
+Fukra
+Hatiara (Kash)
+Kashiani Sadar
+Maheshpur (Kas)
+Mahmudpur (Kash)
+Nizamkandi
+Orakandi (Kash)
+Parulia (Kash)
+Puisur (Kash)
+Rajpat
+Ratail (Kash)
+Sajail
+Singa (Kash)
+Amtali
+Bandhabari
+Ghagar
+Hiran
+Kalabari
+Kandi (Kotal)
+Kushla
+Pinjuri
+Radhaganj
+Ramshil
+Sadullapur
+Suagram
+Bahugram
+Banshbaria (Muks)
+Batikamari
+Bhabrasur
+Dignagar (Muks)
+Gobindapur (Muks)
+Gohala
+Jalirpar
+Kasalia
+Khandarpara
+Maharajpur (Muks)
+Mochana
+Nanikshir
+Pasargati
+Raghdi
+Ujani
+Barni (Tungipara)
+Dumuria (Muks)
+Gopalpur (Tungipara)
+Kushli
+Patgati
+Adampur
+Austagram Sadar
+Bangal Para
+Deoghar
+Kalma (Aust)
+Kastail
+Khayerpur Abdullahpur
+Purba Austagram
+Baliardi
+Dighirpar
+Dilalpur
+Gazir Char
+Halimpur
+Hilachia
+Humaipur
+Kailag
+Maij Char
+Pirijpur (Bajit)
+Sarar Char
+Aganagar (Bha)
+Gazaria (Bhair)
+Kalika Prasad
+Sadekpur (Bha)
+Shibpur (Bhair)
+Shimulkandi
+Sreenagar (Bha)
+Araibaria
+Gobindapur (Hos)
+Jinari
+Pumadi
+Sahedal
+Sidhla (Hos)
+Badla
+Baribari
+Chauganga
+Dhanpur
+Elongjuri
+Itna Sadar
+Joy Siddhi
+Mriga
+Raituti
+Baragharia
+Dehunda
+Gujadia
+Gundhar
+Jafarabad
+Joyka
+Kadir Jangal
+Kiratan
+Niamatpur
+Noabad
+Sutar Para
+Achmita
+Banagram (Kot)
+Chandpur (Kot)
+Jalalpur (Kot)
+Kargaon (Kot)
+Lohajuri
+Mashua
+Mumurdia
+Shahasram Dhuldia
+Baulai
+Binnati
+Chauddasata
+Dana Patali
+Jasodal
+Korsha Kariail
+Latibabad
+Mahinanda
+Maij Khapan
+Maria (Kis)
+Rashidabad
+Chhaysuti
+Faridpur
+Gobaria Abdullahpur
+Osmanpur (Kul)
+Ramdi
+Salua (Kul)
+Bairati (Mith)
+Dhaki
+Ghagra (Mith)
+Gopedighi
+Keorjor
+Khatkhal
+Mithamain
+Chhatir Char
+Dampara
+Gurai
+Jaraitala
+Karpasha
+Nikli
+Singpur
+Barudia
+Chandi Pasha
+Char Faradi
+Ejarasindur
+Hosendi
+Jangalia (Pakun)
+Narandi
+Patuabhanga
+Sukhia
+Damiha
+Dhala (Tar)
+Digdair
+Jawar
+Rauti
+Talganga
+Tarail Sachail
+Baligram
+Dasar
+Gopalpur (Kalkini)
+Kazibakai
+Nabagram (Kal)
+Alinagar (Kal)
+Banshgari (Kal)
+Char Daulat Khan
+Enayetnagar (Kal)
+Kayaria
+Lakshmipur (Kalkini)
+Purbo Enayetnagar
+Ramjanpur
+Sahebrampur
+Shikar Mangal
+Bahadurpur (Mad. Sadar)
+Chhilar Char
+Dhurail (Mad. Sadar)
+Dudhkhali
+Ghatmajhi
+Jhaudi
+Kalikapur (Mad)
+Kendua (Mad)
+Khoajpur
+Kunia
+Mustafapur
+Panchkhola
+Pearpur (Mad)
+Rasti
+Sirkhara
+Amgram
+Badar Pasha
+Bajitpur
+Haridasdi Mahendradi
+Hossainpur (Rajair)
+Isibpur
+Kabirajpur
+Kadambari
+Khalia
+Paik Para (Raj)
+Baheratala Dakshin
+Baheratala Uttar
+Bandarkhola
+Banshkandi
+Bhadrasan
+Bhandarikandi
+Char Janajat
+Datta Para (Shib)
+Kadirpur
+Kanthalbari (Sibchar)
+Kutubpur (Shibchar)
+Matbarer Char
+Nilakhi (Shib)
+Paik Para (Raj)
+Panch Char
+Sannyasir Char
+Shibchar
+Siruail
+Umedpur (Shib)
+Bachamara
+Baghutia
+Chak Mirpur
+Charkatari
+Dhamsar
+Jiyanpur
+Kalia (Daul)
+Khalsi
+Baliakhora
+Baniajuri
+Baratia
+Ghior
+Nali
+Paila
+Singjuri
+Azimnagar
+Balara
+Balla (Hari)
+Boyra (Hari)
+Chala
+Dhulsunra
+Gala (Hari)
+Gopinathpur
+Harukandi
+Kanchanpur (Hari)
+Lesraganj
+Ramkrishnapur (Hari)
+Sutalari
+Atigram
+Betila Mitara
+Bhararia
+Dighi
+Garpara
+Hati Para
+Jaigir
+Krishnapur (Manik)
+Nabagram
+Putail
+Baliati
+Baraid
+Daragram
+Dhankora
+Dighalia (Sat)
+Fukurhati
+Hargaz
+Saturia
+Tilli
+Arua
+Mohadebpur
+Shibalaya
+Shimulia
+Teota
+Ulail
+Uthali
+Baldhara
+Boyra
+Chandhar
+Charigram
+Dhalla
+Jamirta
+Jamsha
+Joy Mantap
+Saista
+Singair
+Talibpur
+Baluakandi
+Bausia
+Bhaber Char
+Gazaria (Gaz)
+Guagachhia
+Hossaindi
+Imampur
+Tenger Char
+Baultali
+Bejgaon
+Gaodia
+Haldia
+Kalma (Loha)
+Kanaksar
+Khidir Para
+Kumarbhog
+Lohajang Teotia
+Medini Mandal
+Adhara
+Bajra Jogini
+Bangla Bazar (Muns)
+Char Kewar
+Mahakali
+Mollahkandi
+Panchasar
+Rampal
+Silai
+Balur Char
+Basail (Seraj)
+Bayaragadi
+Chitrakot
+Ichhapur
+Jainsar
+Kayain
+Kola
+Latabdi
+Madhyapara
+Malkhanagar
+Rajanagar (Seraj)
+Rasunia
+Sekharnagar
+Atpara
+Baghra
+Baraikhali
+Bhagyakul
+Birtara (Sre)
+Hasara
+Kola Para
+Kukutia
+Patabhog
+Rarikhal
+Sholaghar
+Shyamsiddhi
+Sreenagar (Sre)
+Tantar
+Abdullahpur
+Arial
+Autshahi
+Baligaon
+Betka
+Dhipur
+Dighirpar
+Hasail Banari
+Jashalong
+Kamarkhara
+Kathadia Shimulia
+Panchgaon (Tong)
+Sonarang (Tongibari)
+Bishnandi
+Brahmandi
+Duptara
+Fatepur
+Haijadi
+Kalapaharia
+Khagkanda
+Mahmudpur
+Satgram
+Uchitpura
+Bandar
+Dhamgor
+Kalagasia
+Modonpur
+Muchapur
+Alirtek
+Baktaboli
+Enayet Nagar
+Fatulla
+Gognagar
+Kashipur
+Kutubpur
+Daudpur
+Golakandail
+Kayetpara
+Murapara
+Rupganj
+Volabo
+Vulta
+Baidyerbazar
+Barodi
+Jampur
+Kanchpur
+Mograpara
+Nowagaon
+Pirojpur
+Sadipur
+Sanmandi
+Shomvupura
+Amlaba
+Bajnaba
+Belabo
+Binnabaid
+Charujilab
+Narayanpur
+Patuli
+Sallabad
+Barachapa
+Chalakchar
+Chandanbari
+Charmandalia
+Daulatpur
+Ekduaria
+Gotashia
+Kanchikata
+Khidirpur
+Krishnapur
+Lebutala
+Shukundi
+Alokbali
+Amadia
+Char Dighaldi
+Chinishpur
+Hajipur
+Karimpur
+Kathalia
+Mahishasura
+Meherpara
+Nazarpur
+Nuralapur
+Panchdona
+Poikar Char
+Silmandi
+Char Sindur
+Danga
+Gazaria
+Jinardi
+Adiabad
+Alipura
+Amirganj
+Banshgari
+Chanderkandi
+Chanpur
+Char Aralia
+Charmadhua
+Charsubuddi
+Dowkarchar
+Hairmara
+Maheshpur
+Mirzanagar
+Mirzapur
+Mirzarchar
+Morjal
+Musapur
+Nilakhya
+Pahartali
+Palashtali
+Radhanagar
+Roypura
+Sreenagar
+Uttar Bakharnagar
+Ayubpur
+Baghaba
+Chakradha
+Dulalpur
+Josar
+Joynagar
+Masimpur
+Putia
+Sadhar Char
+Baharpur
+Baliakandi
+Islampur (Bal)
+Jamalpur (Bal)
+Jangal
+Narua
+Nawabpur (Bal)
+Chhota Bhakla
+Daulatdia
+Debagram
+Ujan Char (Goal)
+Boalia
+Kalikapur (Kalu)
+Madapur
+Majhbari
+Mrigi
+Ratandia
+Swaorail
+Babupara
+Bahadurpur (Pan)
+Habaspur
+Jashai
+Kalimahar
+Kasba Majhail
+Machh Para
+Maurat
+Patra
+Sarisha
+Alipur
+Banibaha
+Barat
+Basantapur
+Chandani
+Dadshi
+Khanganj
+Khankhanapur
+Mizanpur
+Mulghar
+Panchuria
+Ramkantapur (Raj)
+Shahid Wahabpur
+Sultanpur (Raj)
+Arshi Nagar
+Char Bhaga
+Char Census
+Char Kumaria
+Chhaygaon
+Dhakhin Tarabunia
+Digar Mahishkhali
+Kachikata
+Mahisar
+Narayanpur
+Rambhadrapur
+Sakhipur
+Tarabunia
+Darul Aman
+Dhankati
+Islam Pur
+Kaneshwar
+Purba Damudya
+Sidulkura
+Sidya
+Aladlpur
+Gosairhat
+Idilpur
+Kodalpur
+Kuchaipatti
+Nager Para
+Nalmuri
+Samantasar
+Bara Gopalpur
+Bara Krishnagar
+Barakandi
+Bilaspur
+Joynagar
+Kunder Char
+Mulna
+Naodoba
+Paler Char
+Purba Naodoba
+Sener Char
+Zanjira sadar
+Bhojeshwar
+Bhumkhara
+Bijhari
+Chamta
+Char Atra
+Dinga Manik
+Fateh Jangapur
+Gharisar
+Japsa
+Kedarpur
+Muktarer Char
+Nasasan
+Noapara
+Rajnagar (Narail)
+Angaria
+Binodpur
+Chandrapur
+Chikandi
+Chitalia
+Domsar
+Mohammadpur (Shar)
+Palong
+Rudrakar
+Shaul Para
+Tulasar
+Basail
+Fulki
+Habla
+Kanchanpur
+Kashil
+Kaulzani
+Alowa
+Arjuna
+Falda
+Gabsara
+Gobindasi
+Nikrail
+Atiya
+Delduar Sadar
+Deuli
+Dubail
+Elasin
+Fajilhati
+Lauhati
+Pathrail
+Baniajan
+Birtara
+Bolivadro
+Dhopakhali
+Jodunathpur
+Musuddi
+Paiska
+Anehola
+Dewpara
+Dheolabari
+Dholapara
+Digholkandi
+Digor
+Ghatail
+Jamoria
+Lakhindar
+Lokerpara
+Rosulpur
+Shagordighi
+Shagrampur
+Sondhanpur
+Alam Nagar
+Dopakandi
+Hadira
+Hem Nagar
+Jauail
+Mirzapur
+Nogda Shimla
+Bangra
+Birbasinda
+Bolla
+Doskia
+Durgapur
+Gohaliabari
+Kokdohora
+Nagbari
+Narandia
+Paikra
+Parkhi
+Sohdebpur
+Solla
+Alokdiya
+Aronkhola
+Aushnara
+Beribaed
+Golabari
+Kuragacha
+Kuralia
+Mirjabari
+Mohismara
+Phulbagchala
+Solakuri
+Anaitara
+Azgana
+Bahuria
+Banial
+Bastoil
+Fathepur
+Gorai
+Jamuki
+Latifpur
+Mahera
+Tarofpur
+Uarshi
+Vaora
+Vatgram
+Bekra Atgram
+Daptior
+Dubria
+Goyhata
+Mamudnagar
+Mokna
+Nagorpur
+Pakutia
+Sahabatpur
+Salimabad
+Vabra
+Vhadra
+Bahuria
+Barachewna
+Boheratoil
+Dariapur
+Gajaria
+Haleya Rajabari
+Hatibandha
+Jhadabpur
+Kakrajan
+Kalia
+Baghil
+Dainya
+Gala
+Gharinda
+Hugra
+Kakua
+Katuli
+Kortia
+Magra
+Mamudnagar
+Porabari
+Silimpur
+Baruipara
+Bemarta
+Bishnupur
+Dema
+Gotapara
+Jatrapur
+Karapara
+Khanpur
+Rakhalgachi
+Shatgombus
+Bara Baria
+Char Baniari
+Chitalmari
+Hizla (Chital)
+Kalatala
+Santoshpur (Chitalmari)
+Shibpur (Chitalmari)
+Bahirdia Manasa
+Betaga
+Fakirhat
+Lakhpur
+Mulghar (Fakir)
+Naldha Maubhog
+Piljanga
+Subhadia
+Badhal
+Dhopakhali (Kach)
+Gazalia
+Gopalpur (Kachua)
+Kachua Sadar
+Maghia
+Rari Para
+Burirdanga
+Chandpi
+Chila
+Mithakhali
+Sundarban (Mongla)
+Suniltala
+Atjuri
+Chunkhola
+Gangni
+Gaola
+Kodalia
+Kulia (Mol)
+Udaypur (Mol)
+Baharbunia
+Balaibunia
+Banagram (Mor)
+Baraikhali (Mor)
+Chingrakhali
+Daibagnyahati
+Hogla Pasha
+Hoglabunia
+Jiudhara
+Khuolia
+Morrelganj
+Nishanbaria (Mor)
+Panchakaran
+Putikhali
+Ramchandrapur (Mor)
+Teligati (Mor)
+Baintala
+Banshtali
+Bhojpatia
+Gaurambha
+Harka
+Malliker Ber
+Perikhali
+Rajnagar
+Rampal (Sadar)
+Ujalkur
+Dhansagar
+Khontakata
+Royenda
+South Khali
+Ailhas
+Baradi (Alam)
+Belgachhi
+Bhangabaria (Alam)
+Chitla
+Dauki
+Gangni (Alam)
+Hardi
+Jamjami
+Jehala
+Kalidashpur
+Khadimpur
+Khaskara
+Kumari
+Nagdaha
+Alokdia (Chua)
+Begampur
+Goraitupi
+Kutubpur (Chua)
+Mominpur (Chua)
+Padmabila
+Shankar Chandra
+Titudaha
+Damurhuda
+Howli
+Juranpur
+Karpasadanga
+Kuralgachhi
+Natipota
+Natuudaha
+Ramrkrishnapur Madna
+Andulbaria
+Banka
+Hasadaha
+KDK
+Monoharpur
+Roypur (Jib)
+Simanta
+Uthali (Jiban)
+Baghutia
+Chalishia
+Payra
+Prembag
+Shidhipasa
+Shuvorara
+Sridharpur
+Sundali
+Bandabila
+Bashuari
+Darajhat
+Dholgram
+Dohakula
+Jamdia
+Narikelbaria
+Roryur
+Zohurpur
+Chowgacha
+Dhuliani
+Fulsara
+Hakimpur
+Jagadishpur
+Narayanpur
+Pashapol
+Patibila
+Sharupdaho
+Shinghajhuli
+Shukhpukuria
+Arabpur
+Bashundia
+Chachra
+Churamankathi
+Deara Model
+Fatepur
+Haibotpur
+Isali
+Kachua
+Kashimpur
+Labutala
+Narandrapur
+Nowapara
+Ramnagar
+Upashahar
+Bakra
+Gadakhali
+Gonganandapur
+Hajirbag
+Jhikargacha
+Magura
+Navaron
+Nirbashkhola
+Panishara
+Shankarpur
+Shimulia
+Bidyanandakati
+Gourighona
+Hasanpur
+Keshabpur
+Majidpur
+Mongolcot
+Pazia
+Sagordari
+Shatbaria
+Sufolakati
+Trimohini
+Bhujgati
+Chaluahati
+Dhakuria
+Durbadanga
+Horidaskati
+Horiharnagar
+Jhampa
+Kashemnagar
+Khanpur
+Khedapara
+Kulatia
+Mashimnagar
+Monirampur
+Monoharpur
+Nehalpur
+Rohita
+Shyamkur
+Bagahachra
+Bahadurpur
+Benapole
+Dihi
+Goga
+Kayba
+Laxanpur
+Nizampur
+Putkhali
+Sharsha
+Ulashi
+Bhayna
+Chandpur (Harin)
+Daulatpur (Harin)
+Joradaha
+Kapashati
+Phalsi
+Raghunathpur
+Taherhuda
+Dogachhi (Jhen)
+Fursandi
+Ganna
+Ghorshal
+Halidhani
+Harishankarpur
+Kalicharanpur
+Kumrabaria
+Madhuhati
+Moharajpur
+Naldanga
+Padmakar
+Paglakanai
+Porahati
+Sadhuhati
+Saganna
+Surat
+Bara Bazar
+Jamal
+Kashtabhanga
+Kola (Kal)
+Maliat
+Niamatpur (Kal)
+Rakhalgachhi
+Roygram
+Simla Rokonpur
+Sundarpur Durgapur
+Trilochanpur
+Baluhar
+Dora
+Elangi
+Kushna
+Sabdalpur
+Azampur
+Banshbaria (Mahes)
+Fatehpur (Mahes)
+Jadabpur (Mahes)
+Kazirber
+Manderbari
+Natima
+Nepa
+Pantha Para
+S.K.B.
+Shyamkur
+Swaruppur
+Abaipur
+Bagura
+Dhalhara Chandra
+Dignagar
+Dudhsar
+Fulhari
+Hakimpur
+Kancherkol
+Manoharpur
+Mirzapur (Shail)
+Nityanandapur
+Sarutia
+Tribeni
+Umedpur
+Amirpur
+Baliadanga
+Batiaghata
+Bhanderkote
+Gangarampur (Bat)
+Jalma
+Surkhali
+Bajua
+Banishanta
+Dacope
+Kailasganj
+Kamarkhola
+Laudoba
+Pankhali
+Sutarkhali
+Tildanga
+Arong Ghata
+Barakpur
+Dighalia Sadar
+Gazir Hat
+Jogipol
+Senhati
+Atlia
+Bhandar Para
+Dhamalia
+Dumuria (Dum)
+Gutudia
+Kharnia
+Maghurghona
+Magurkhali
+Raghunathpur
+Rangpur
+Rudaghara
+Sahas
+Sarappur
+Sobhana
+Atragilatola
+Damodar
+Jamira
+Phultala
+Amadi
+Bagali
+Dakshin Bedkashi
+Koyra Sadar
+Maharajpur (Koy)
+Maheshwaripur
+Uttar Bedkashi
+Chandkhali
+Deluti
+Gadaipur
+Garuikhali
+Haridhali
+Kapilmuni
+Laskar
+Lata (Paik)
+Raruli
+Sholadana
+Aijganti
+Ghatbhogh
+Naihati
+Sreefaltala
+T. S. Bahirdia
+Ajugara
+Barasat
+Madhupur
+Sachiadah
+Sagladah
+Terokhada
+Bahadurpur
+Bahirchar
+Chandgram
+Dharampur
+Juniyadaha
+Mo0karimpur
+Adabaria
+Aria
+Boalia
+Chailmary
+Doulatpur
+Hogolbaria
+Kholishakundi
+Maricha
+Mathurapur
+Philipnagor
+Piarpur
+Pragpur
+Ramkrishnopur
+Rifaitpur
+Ambaria
+Betbaria
+Gopgram
+Janipur
+Joyantihazra
+Khoksha
+Osmanpur
+Shamspur
+Shamulia
+Bagulat
+Chandpur
+Chapra
+Char Shadipur
+Jogonnath Pur
+Judobyaira
+Koya
+Nandolalpur
+Panti
+Selaidha
+Sodaki
+Abdalpur
+Ailchara
+Allampur
+Barakhada
+Bat Tail
+Goshami Durgapur
+Haatos Horipur
+Horinaraon Pur
+Jhowdia
+Kanchanpur
+Monohardia
+Patika Bari
+Uzangram
+Ziarokhi
+Ambaria
+Amla
+Baruipara
+Boholbaria
+Chitholia
+Dhuboil
+Fulbaria
+Korsha
+Malihad
+Poradoho
+Satian
+Sodorpur
+Talbaria
+Atharakhada
+Bagia
+Birail Palita
+Chaulia
+Gopalgram
+Hazipur
+Hazrapur
+Jagdal
+Kasundi
+Kuchiamora
+Maghi
+Raghab Dair
+Satrujitpur
+Babukhali
+Balidia
+Binodepur
+Digha
+Mohammadpur
+Nahata
+Palashbaria
+Rajapur (Moh)
+Arpara
+Bunagati
+Dhaneshwargati
+Gangarampur
+Shalikha
+Shatakhali
+Talkhari
+Amalsar
+Dariapur (Sre)
+Gayeshpur
+Kadir Para
+Nakol
+Sabdalpur (Sre)
+Sreekol
+Sreepur Sadar
+Bamandi
+Dhankhola
+Kathuli
+Kazipur
+Matmura
+Roypur (Gan)
+Shaharbati
+Shola Taka
+Tentulbaria
+Amda
+Amjhupi
+Baradi
+Buripota
+Kutubpur (Meh)
+Pirojpur
+Shyampur
+Bagoan
+Dariapur (Mujib)
+Mahajanpur
+Monakhali
+Babra Hachla
+Bauisena
+Boranal Eliasabad
+Chanchari
+Hamidpur (Kal)
+Joynagar (Kal)
+Kalabaria
+Khasial
+Mauli
+Pahardanga
+Patchgram
+Perali
+Purulia
+Salamabad
+Dighalia
+Itna
+Joypur
+Kashipur (Loha)
+Kotakol
+Lahuria
+Lakshmipasha
+Lohagara
+Mallikpur
+Naldi
+Noagram
+Shalnagar
+Auria
+Banshgram
+Bhadrabila
+Bichhali
+Chandibarpur
+Habakhali
+Kalora
+Maij Para
+Mulia
+Sahabad
+Shaikhati
+Singasolpur
+Tularampur
+Anulia
+Assasuni
+Baradal
+Budhhata
+Durgapur (Assasuni)
+Kadakati
+Khajra
+Kulla (Asa)
+Pratap Nagar
+Sobhnali
+Sreeula
+Debhata
+Kulia
+Noapara (Deb)
+Parulia
+Sakhipur (Deb)
+Chandanpur
+Diara
+Helatala
+Jallabad
+Jogikhali
+Joynagar (Kala)
+Kaila
+Keragachhi
+Keralkata
+Kushadanga
+Langaljhara
+Sonabaria
+Bhara Simla
+Bishnupur (Kaliganj)
+Champaphul
+Dakshin Srepur-Kali
+Dhalbaria
+Krishnanagar (Kaliganj)
+Kushlia
+Mathureshpur
+Mautala
+Nalta
+Ratanpur (Kali)
+Tarali
+Agardari
+Alipur
+Baikari
+Balli
+Banshdaha
+Bhomra
+Brahma Rajpur
+Dhulihar
+Fingri
+Ghona
+Jhaudanga
+Kuskhali
+Labsa
+Shibpur
+Atulia
+Bhurulia
+Buri Goalini
+Gabura
+Ishwaripur
+Kaikhali
+Kashimari
+Munshiganj
+Nurnagar
+Padma Pukur
+Ramjan Nagar
+Shyamnagar
+Dhandia
+Islamkati
+Jalalpur (Tala)
+Khalilnagar
+Khalishkhali
+Khesra
+Kumira (Tala)
+Magura (Tala)
+Nagarghata
+Sarulia
+Tala
+Tentulia (Tala)
+Bagar Char
+Bakshiganj
+Batrajore
+Dhanua Kamalpur
+Merur Char
+Nilkhia
+Sadhur Para
+Bahadurabad
+Char Aomkhaoa
+Chikajani
+Chukaibari
+Dangdhara
+Dewanganj
+Hatibhanga
+Pararam Rampur
+Belgachha (Islampur)
+Char Goalini
+Char Putimari
+Chinadulli
+Gaibandha
+Goaler Char
+Islampur Sadar
+Kulkandi
+Noarpara
+Palbandha
+Patharsi
+Sapdhari
+Banshchara
+Digpaith
+Ghoradhap
+Itail
+Kendua
+Lakshmir Char
+Meshta
+Narundi
+Ranagachha
+Rashidpur
+Sahabajpur
+Sharifpur
+Sreepur (Jam)
+Titpalla
+Tulsir Char
+Adarbhita
+Balijuri
+Char Pakerdaha
+Gunaritala
+Jorekhali
+Karaichara
+Sidhuli
+Adra (Mel)
+Char Banipakuria
+Durmut
+Fulkocha
+Ghosher Para
+Jhaugara
+Kulia (Mel)
+Mahmudpur (Mel)
+Nangla
+Nayanagar
+Shayampur
+Awna
+Bhatara (Sarisha)
+Doail
+Kamrabad
+Mahadan
+Pingna
+Pogaldigha
+Satpoa
+Bhaluka
+Bharadoba
+Birunia
+Dakatia
+Dhitpur
+Habirbari
+Kachina
+Mallikbari
+Meduary
+Rajai
+Uthura
+Baghber (Dhoba)
+Dakshin Maij Para
+Dobaura
+Gamaritala
+Ghoshgaon
+Guatala
+Pora Kandulia
+Achim Patuli
+Bakta
+Balian
+Bhabanipur
+Deokhola
+Enayetpur
+Fulbaria
+Kaladaha
+Kushmail
+Naogaon
+Putijana
+Radhakanai
+Rangamatia
+Barabaria
+Char Algi
+Datter Bazar
+Gaffargaon
+Jessora
+Langair
+Mashakhali
+Nigair
+Paithal
+Panchbhag
+Raona
+Rasulpur (Gaff)
+Saltia
+Tengaba
+Usthi
+Achintapur
+Bhangnamari
+Bokainagar
+Dowhakhala
+Gauripur Sadar
+Mailakanda
+Maoha
+Ramgopalpur
+Sahanati
+Sidhla
+Amtail (Haluaghat)
+Bhubankura
+Bildora
+Dhara
+Dhurail (Haluaghat)
+Gazir Bhita
+Haluaghat Sadar
+Jugli
+Kaichapur
+Narail
+Sakuai
+Swadeshi
+Atharabari
+Barahit
+Ishwarganj
+Jatia
+Maijbagh
+Mogtola
+Rajibpur (Ishwarganj)
+Sarisha (Ishw)
+Sohagi
+Tarundia
+Uchakhila
+Baragram
+Basati
+Daogaon
+Dulla
+Ghoga
+Kashimpur (Mukta)
+Kheruajani
+Kumarghata
+Mankon
+Tarati
+Ashtadhar
+Bhabkhali Union
+Borar Char Union
+Char Ishwardia Union
+Char Nilakshmia Union
+Dapunia Union
+Ghagra Union
+Khagdahar Union
+Kushtia Union
+Paranganj Union
+Sirta Union
+Achargaon
+Betagair
+Chandipasha
+Char Batagoir
+Gangail
+Jahangirpur
+Kharua
+Moazzempur
+Musuli
+Nandail
+Rajgati
+Sherpur
+Singrail
+Balia (Phul)
+Baola
+Bhaitkandi
+Payari
+Phulpur
+Rahimganj
+Rambhadrapur (Phul)
+Rupasi
+Sandhara
+Singheshwar
+Balikhan
+Banihala
+Bishka
+Dhakua
+Galagaon
+Kakni
+Kamargaon (Tar)
+Kamaria (Tar)
+Rampur (Tar)
+Tarakanda
+Amirabari
+Bailar
+Bali Para (Tri)
+Dhanikhola
+Harirampur
+Kanihari
+Kanthal
+Mathbari
+Mokshapur
+Rampur
+Sakhua
+Trishal
+Baniajan (Atp)
+Duaz
+Loneshwar
+Sarmaisa
+Sonai
+Sukhari
+Teligati
+Asma
+Barhatta
+Baushi
+Chhiram
+Roypur (Barh)
+Sahata
+Singdha
+Bakaljora
+Birisiri
+Chandigarh
+Durgapur (Durgapur)
+Gaokandia
+Kakairgara
+Kullagara
+Bara Kharpan
+Kailati (Kal)
+Kalmakanda
+Kharnai
+Lengura
+Nazirpur
+Pogla
+Rangchhati
+Asujia
+Balaishimul
+Chirang
+Dalpa
+Ganda
+Garadoba
+Kandiura
+Masaka
+Muzaffarpur
+Nowapara
+Paikura
+Roailbari-Amtala
+Sandikona
+Chakua
+Gazipur
+Khaliajuri
+Krishnapur
+Mendipur
+Nagar
+Chandgaon
+Fatehpur (Madan)
+Gobindasree
+Kaital
+Madan
+Maghan
+Nayekpur
+Tiasree
+Baratali Banihari
+Barkashia Biramp
+Gaglajur
+Maghan Siadhar
+Samaj Sahildeo
+Suair
+Tentulia
+Amtala
+Challisha
+Dakkhin Bishiura
+Kailati
+Kaliara Gabargati
+Laxmiganj
+Madanpur
+Maugati
+Medni
+Rauha
+Singher Bangla
+Thakurkona
+Agia
+Bairati
+Biskhakunia
+Dhala Mulgaon
+Ghagra
+Gohalkanda
+Hogla
+Jaria
+Khalishaur
+Narandia
+Purbadhala
+Dhanshail
+Gouripur
+Hatibanda
+Jhenaigati
+Kangsha
+Malijikanda
+Nolkora
+Baneshordi
+Chandrakona
+Char Austodhar
+Gonoppodi
+Gourodar
+Nakla
+Pathakata
+Talki
+Urpha
+Baghber
+Jogania
+Kakorkandi
+Koloshpar
+Morichpuran
+Nalitabari
+Nonni
+Noyabil
+Puragaon
+Rajnagor
+Ramchandrakora
+Rupnarayankura
+Bajitkhali
+Betmari Gugurakandi
+Bolair Char
+Char Mocharia
+Char Pokkhimari
+Char Sherpur
+Dhola
+Gazir Khamar
+Kamarer Char
+Kamaria
+Losmonpur
+Pakuria
+Rouha
+Vatshala
+Garjaripa
+Goshaipur
+Kakilakura
+Kharia Kazir Char
+Kurikahania
+Ranishimul
+Shingaboruna
+Shreebardi
+Thathihati
+Velua
+Adamdighi
+Chapapur
+Chatiyangram
+Kundagram
+Nasaratpur
+Santahar
+Erulia
+Fapor
+Gokul
+Lahiripara
+Namuja
+Nishindara
+Noongola
+Razapur
+Shabgram
+Shakerkhola
+Shakhariya
+Bhandarbari
+Chikashi
+Chowkibari
+Dhunat
+Elangi
+Gopalnagar
+Goshaibari
+Kalerpara
+Mathurapur
+Nimgachhi
+Chamrul
+Dupchacia
+Gobindapur
+Gunahar
+Talora
+Zianagar
+Baliadigi
+Dhaksinpara
+Durgahata
+Gabtoli
+Kagail
+Mohisaban
+Naruamala
+Nashipur
+Nepaltoli
+Rameshwarpur
+Sonaray
+Birkedar
+Durgapur
+Jamgram
+Kahalu
+Kalai
+Malancha
+Murail
+Narhotto
+Paikar
+Burawil
+Nandigram
+Thalta Majhgram
+Vatgram
+Vatra
+Bhelabari
+Bohail
+Chaluabari
+Chandanbaisha
+Fulbari
+Hatserpur
+Kajla
+Kamalpur
+Kornibari
+Kutubpur
+Narchi
+Sariakandi
+Amrul
+Ariya
+Ashekpur
+Chopinagar
+Gohail
+Kharana
+Khottapara
+Madla
+Majira
+Bhabanipur
+Bishalpur
+Garidah
+Khamarkandi
+Khanpur
+Kushumbi
+Mirzapur
+Shahbondegi
+Simabari
+Sughat
+Atmul
+Bihar
+Buriganj
+Dewli
+Kichak
+Maidanhata
+Majhihatta
+Mokamtala
+Pirab
+Roynagar
+Shibganj
+Syedpur
+Balua
+Digdair
+Jorgachha
+Madhupur
+Pakulla
+Sonatala
+Tekani Chukainagar
+Bholahat
+Daldali
+Gohalbari
+Jambaria
+Alatuli
+Balidanga
+Baragharia (Chap)
+Char Anupnagar
+Char Bagdanga
+Debinagar
+Gobratala
+Islampur (Chap)
+Jhilim
+Maharajpur
+Narayanpur (Chap)
+Ranihati
+Shahjahanpur (Chap)
+Sundarpur (Chap)
+Alinagar
+Bhangabaria
+Boalia (Gom)
+Chowdala
+Gomastapur
+Parbatipur
+Radhanagar (Gom)
+Rohanpur
+Fatehpur (Nach)
+Kasba Union
+Nachole
+Nizampur (Nach)
+Binodpur (Shib)
+Chak Kirti
+Chhatrujitpur (Shib)
+Daipukuria
+Dhainagar
+Durlabhpur
+Ghorapakhia
+Kansat
+Manakasha
+Mobarakpur
+Nayalabhanga
+Panka (Shib)
+Shahbajpur
+Shyampur
+Uzirpur
+Gopinathpur
+Raykali
+Rukindipur
+Sonamukhi
+Tilokpur
+Amdai
+Bombu
+Chakbarkat
+Dalahar
+Dogachi
+Jamalpur
+Mohammadabad
+Puranapoil
+Vhadsha
+Ahmedabad
+Matrai
+Punat
+Udaypur
+Zindarpur
+Alompur
+Barail
+Baratara
+Mamudpur
+Tulshigonga
+Aowlai
+Atapur
+Aymarasulpur
+Bagjana
+Balighata
+Dharanji
+Kusumba
+Mohammadpur
+Ahsanganj
+Bhopara
+Bisha
+Hatkalu Para
+Kalikapur (Atr)
+Maniari
+Panchupur
+Sahagola
+Adhaipur
+Badalgachhi
+Balubhara
+Bilasbari
+Kola (Badal)
+Mathurapur (Badal)
+Mithapur
+Paharpur
+Agradigun
+Alampur
+Aranagar
+Dhamoirhat
+Isabpur
+Jahanpur
+Khelna
+Omar
+Bhimpur
+Chandas
+Cheragpur
+Enayetpur (Maha)
+Hatur
+Khajur
+Mahadebpur
+Raigaon
+Safapur
+Uttargram
+Bhalain
+Bharso
+Bishnupur
+Ganeshpur
+Kalikapur (Man)
+Kansopara
+Kashab
+Kusumba
+Mainam
+Manda
+Nurullabad
+Paranpur
+Prasadpur
+Tentulia (Man)
+Baktarpur
+Balihar
+Barshail
+Boalia (Mang)
+Chandipur
+Dubalhati
+Hapania
+Hashaighari
+Kirtipur
+Sailgachhi
+Sekherpur
+Tilakpur
+Bahadurpur (Niamatpur)
+Bhabicha
+Chandan Nagar
+Hajinagar
+Niamatpur Sadar
+Parail (Niamat)
+Rasulpur (Niamatpur)
+Sreemantapur
+Akbarpur
+Amair
+Dibar
+Ghoshnagar
+Krishnapur (Pat)
+Matindar
+Nazipur
+Nirmail
+Patichara
+Patnitala
+Shihara
+Chhaor
+Ganguria
+Ghatnagar
+Masidpur
+Nithpur
+Tentulia (Porsha)
+Bargachha
+Ekdala
+Gona
+Kaligram
+Kashimpur
+Mirat
+Parail
+Raninagar
+Aihai
+Goala
+Pathari
+Sapahar
+Shiranti
+Tilna
+Bagatipara
+Dayarampur
+Fhaguradiar
+Jamnagar
+Panka
+Baraigram
+Chandi
+Gopalpur (Bar)
+Joari
+Jonail
+Majgaon
+Nagar (Bar)
+Biaghat
+Chapila
+Dharabarisha
+Khubjipur
+Moshinda
+Nazirpur (Gur)
+Arbab
+Arjunpur Boromhati
+Bilmaria
+Changdhupail
+Duaria
+Durduria
+Ishwardi
+Kadam Chilan
+Lalpur
+Walia
+Biprabelgharia
+Brahmapur
+Khajuria
+Madhabnagar
+Piprul
+Bara Harishpur
+Chhatni
+Dighapatia
+Halsa
+Kafuria
+Lakshmipur Kholaba
+Tebaria
+Chamari
+Chaugram
+Chhatar Dighi
+Dahia
+Hatiandaha
+Italy
+Kalam
+Lalore
+Ramananda Khajura
+Sherkola
+Sukosh
+Tajpur (Sing)
+Chandva
+Debottar
+Ekdanta
+Lakshmipur (Atgharia)
+Majh Para
+Chakla
+Dhalar Char
+Haturia Nakalia
+Jatsakhini
+Kaitola
+Masundia
+Nutan Bharenga
+Puran Bharenga
+Ruppur
+Ashta Manisha
+Bhangura
+Dilpasar
+Khan Marich
+Mandatosh
+Parshadanga
+Bilchalan
+Chhaikhola
+Danthia Bamangram
+Failjana
+Gunaigachha
+Handial
+Haripur (Chat)
+Mothurapur
+Mulgram
+Nimaichara
+Parbhanguria
+Banwarinagar
+Bri-Lahiribari
+Demra (Far)
+Faridpur (Faridpur)
+Hadal
+Pungali (Far)
+Dashuria
+Lakshmikunda
+Muladuli
+Pakshi
+Pungali
+Sahapur
+Silimpur (Ishwar)
+Ataikola (Pab)
+Bharara (Pab. Sadar)
+Char Tarapur
+Dapunia
+Dogachhi (Pab)
+Gayeshpur (Pab)
+Hemayetpur
+Malanchi
+Maligachha
+Sadullapur (Pabna)
+Ataikola
+Bhulbaria
+Dhopadaha
+Dhulauri
+Gaurigram
+Karanja
+Kashinathpur
+Khatupara
+Nagdemra
+Nandanpur
+Ahmedpur
+Bhayna (Sujanagar)
+Dulai
+Hatkhali
+Manikhat
+Nazirganj
+Raninagar (Suja)
+Sagarkandi
+Satbaria (Suja)
+Tnatibanda
+Arani
+Bajubagha
+Bausa
+Chakrajapur
+Gargari
+Manigram
+Pakuria
+Auch Para
+Bara Bihanali
+Basu Para
+Dwippur
+Ganipur
+Goalkandi
+Gobinda Para
+Hamir Kutsha
+Jhikra
+Jogi Para
+Kachhari Kayali Para
+Maria (Bag)
+Nardas
+Sonadanga
+Sreepur
+Subhadanga
+Bhaya Lakshmipur
+Charghat
+Nimpara
+Salua
+Sardah
+Yusufpur
+Deluabari
+Dharmapur (Pananagar)
+Jhaluka
+Joynagar (Dur)
+Kismat Gankair
+Maria
+Noapara (Dur)
+Ashariadaha
+Basudebpur
+Deopara (Goda)
+Godagari
+Gogram
+Matikata
+Mohanpur (Goda)
+Pakri
+Rishikul
+Bakshimail
+Dhurail
+Ghasigram
+Jahanabad
+Maugachhi
+Royghati
+Baragachhi
+Damkur
+Darshan Para
+Haragram
+Harian
+Haripur (Paba)
+Hujuri Para
+Parila
+Baneshwar
+Belpukuria
+Bhalukgachhi
+Jeopara
+Puthia
+Silmaria
+Badhair
+Chanduria
+Kalma
+Kamargaon
+Pachandar
+Saranjai
+Talanda
+Bara Dhul
+Belkuchi
+Bhangabari
+Daulatpur (Belkuchi)
+Dhukaria Bera
+Rajapur (Bel)
+Bagutia
+Gharjan
+Khas Kaulia
+Khas Pukuria
+Omarpur (Chau)
+Sadia Chandpur
+Sthal
+Bhadraghat
+Jamtail
+Jhawail (Kamar)
+Roy Daulatpur
+Chalitadanga
+Char Girish
+Gandail
+Kazipur Sadar
+Khas Rajbari
+Maijbari
+Mansur Nagar
+Natuar Para
+Nishchintapur
+Sonamukhi (Kaz)
+Subhagachha
+Tekani
+Brahmagachha
+Chandaikona
+Dhamainagar
+Dhangara
+Dhubil
+Ghurka
+Nalka
+Pangashi
+Sonakhara
+Beltail
+Gala (Shah)
+Garadaha
+Habibullanagar
+Jalalpur (Shah)
+Kaijuri
+Kayempur
+Khukni
+Narina
+Porjana
+Potajia
+Rupabati
+Sonatani
+Baghbati
+Bahuli
+Chhangachha
+Kalia Haripur
+Kaoakola
+Khoksabari
+Mechhra
+Ratankandi
+Saidabad
+Shialkul
+Baruhas
+Deshigram
+Madhainagar
+Magura Binod
+Naogaon (Tar)
+Saguna
+Talam
+Tarash
+Bangala
+Bara Pangashi
+Barahar
+Durganagar
+Hatikumrul
+Koyra
+Mohanpur (Ulla)
+Pancha Kroshi
+Purnimaganti
+Ramkrishnapur
+Salanga
+Salap
+Udhunia
+Ullah Para
+Azimpur
+Bhandara
+Bijora
+Biral
+Dhamair
+Dharmapur
+Farakkabad
+Mangalpur
+Palashbari
+Ranipukur
+Razarampur
+Sahargram
+Binail
+Deor
+Jotbani
+Katla
+Khanpur
+Mukundpur
+Poliprayagpur
+Bhognagar
+Mohammadpur
+Mohanpur
+Moricha
+Nijpara
+Palashbari
+Paltapur
+Satore
+Shatagram
+Shibrampur
+Sujalpur
+Atgaon
+Chhatail
+Ishania
+Murshidhat
+Nafanagar
+Rangaon
+Abdulpur
+Alokdihi
+Amarpur
+Auliapukur
+Bhiail
+Fatehjangpur
+Isabpur
+Nasratpur
+Punotti
+Saintara
+Satnala
+Tentulia
+Askarpur
+Auliapur
+Chehelgazi
+Fazilpur
+Kamolpur
+Sekhpura
+Shankarpur
+Shashra
+Sundarban
+Uthrail
+Aladipur
+Betdighi
+Daulatpur
+Eluary
+Kazihal
+Khoyerbari
+Shibnagar
+Bulakipur
+Ghoraghat
+Palash
+Shingra
+Alihat
+Boaldar
+Khattamadhobpara
+Dabor
+Mukundapur
+Ramchandrapur
+Rasulpur
+Sundarpur
+Targaon
+Alokjhari
+Angarpara
+Bhabki
+Bherbheli
+Goaldihi
+Khamarpara
+Bhaduria
+Binodnagor
+Daudpur
+Gopalganj
+Joypur
+Kushdaha
+Mahmudpur
+Putimara
+Shalkhuria
+Belaichandi
+Chandipur
+Habra
+Hamidpur
+Harirampur
+Manmathapur
+Mominpur
+Mostafapur
+Palashbari
+Rampur
+Erendabari
+Fazlupur
+Fulchhari
+Gazaria (Ful)
+Kanchi Para
+Udakhali
+Uria
+Badiakhali
+Ballamjhar
+Boali
+Ghagoa
+Gidari
+Kamarjani
+Kholahati
+Kuptala
+Lakshmipur (Gai)
+Malibari
+Mollar Char
+Ramchandrapur
+Saha Para
+Darbasta (Gob)
+Fulbari (Gobindaganj)
+Gumanigonj
+Horirampur
+Kamardaha
+Kamdia
+Katabari
+Kochasahar
+Mahimaganj
+Nakai
+Rajahar
+Rakhal Buruz
+Sapmara
+Shakhahar
+Shalmara
+Shibpur (Gobindaganj)
+Taluk Kanupur
+Barishal
+Betkapa
+Harinathpur (Palas)
+Hossainpur (Palashbari)
+Kishoregari
+Manoharpur (Palas)
+Mohadipur
+Pabnapur
+Banagram (Sadullapur)
+Bhatgram (Sadul)
+Damodarpur (Sadullapur)
+Dhaperhat
+Faridpur (Sadullapur)
+Idilpur (Sadul)
+Jamalpur (Sadul)
+Kamar Para
+Khurda Komarpur
+Naldanga (Sadul)
+Rasulpur (Sadullapur)
+Bhartkhali
+Bonar Para
+Ghuridaha
+Haldia (Sag)
+Jummerbari
+Kachua (Sag)
+Kamaler Para
+Muktanagar
+Padumsahar
+Saghata
+Bamandanga (Sundarganj)
+Belka
+Chandipur (Sundar)
+Chhaparhati
+Dahabanda
+Dhopadanga
+Haripur (Sundar)
+Kanchibari
+Kapasia (Sundar)
+Ramjiban
+Sarbananda
+Shantiram
+Sonaroy (Sundar)
+Sreepur (Sundar)
+Tarapur
+Andhari Jhar
+Baldia (Bhur)
+Banga Sonahat
+Bhurungamari
+Char Bhurungamari
+Joymanirhat
+Paiker Chhara
+Pathardubi
+Shilkhuri
+Tilai
+Ashtamir Char
+Chilmari (Chil)
+Nayerhat
+Ramna
+Raniganj
+Thanahat
+Barabhita
+Bhangamore
+Kashipur
+Naodanga
+Phulbari
+Shimulbari
+Belgachha
+Bhogdanga
+Ghogadaha
+Halokhana
+Jatrapur (Kuri)
+Kanthalbari (Kur. Sadar)
+Magalbasa
+Panchgachi
+Ballabher Khas
+Bamandanga (Nageshwari)
+Berubari
+Bhitarband
+Hasnabad (Nages)
+Kachakata
+Kaliganj
+Kedar
+Narayanpur (Nageshwari)
+Newashi
+Noonkhawa
+Ramkhana
+Royganj
+Santoshpur (Nageshwari)
+Bidyananda
+Chakirpashar
+Chhinai
+Gharialdanga
+Nazimkhan
+Omar Majid
+Rajarhat
+Kodailkati
+Mohanganj
+Rajibpur (Kurigram)
+Bandaber
+Charshaulmari
+Dantbhanga
+Jadur Char
+Raumari
+Saulmari (Rau)
+Bazra
+Begumganj
+Buraburi
+Daldalia
+Dhamserni
+Dharanibari
+Durgapur (Uli)
+Gunaigachh
+Hatia
+Pandul
+Saheber Alga
+Tabakpur
+Thetroy
+Bhadai
+Bhelabari (Adit)
+Durgapur (Adit)
+Kamalabari
+Mahishkhocha
+Palashi
+Saptibari
+Sarpukur
+Barakhata
+Bhalaguri
+Daoabari (Hat)
+Fakir Para
+Goddimari
+Gotamari
+Nowdabash
+Patika Para
+Saniajan
+Shingimari
+Sindurna
+Tangbhanga
+Bhotemari
+Chalbala
+Chandrapur (Kal)
+Dalagram
+Goral
+Kakina
+Madati
+Tushbhandar
+Barabari (Lal)
+Gokunda
+Harati
+Khuniagachh
+Kulaghat
+Mahendranagar
+Mogalhat
+Panchagram
+Rajpur
+Baura
+Burimari
+Dahagram
+Jagatber
+Jongra
+Kuchlibari
+Patgram
+Sreerampur (Pat)
+Balapara
+Dimla
+Gayabari
+Jhunagachh Chapani
+Khalisa Chapani
+Khoga Kharibari
+Naotara
+Paschim Chhatnai
+Purba Chhatnai
+Tepa Kharibari
+Bamunia
+Bhograburi
+Boragari
+Domar sadar
+Gomnati
+Harinchara
+Jorabari
+Ketakibari
+Panga Matukpur
+Sonaroy
+Balagram
+Daoabari
+Dharmapal
+Golmunda
+Golna
+Kaimari
+Kanthali
+Khutamara
+Mirganj
+Saulmari
+Shimulbari
+Bahagili
+Barabhita
+Chandkhana
+Garagram
+Kishoreganj sadar
+Magura (Kis)
+Nitai
+Putimari
+Ranachandi
+Chaora Bargachha
+Chapra Saramjani
+Charaikhola
+Gorgram
+Itakhola
+Kachukata
+Khokshabari
+Kunda Pukur
+Lakshmi Chap
+Palashbari (Nil)
+Panchapukur
+Ramnagar
+Sangalshi
+Sonaroy (Nil)
+Tupamari
+Bangalipur
+Bothlagari
+Kamar Pukur
+Khata Madhupur
+Kushiram Belpukur
+Alowakhowa
+Balarampur (Atw)
+Dhamor
+Mirzapur (Atwari)
+Radhanagar (Atwari)
+Toria
+Bara Shashi
+Benghari Bangram
+Boda
+Chandanbari (Boda)
+Jhalaishalsiri
+Kajaldighi Kaliganj
+Maidan Dighi
+Marea Bamanhat
+Panchpir
+Sakoa
+Chengthi Hazradanga
+Chilahati
+Dandapal
+Debidoba
+Debiganj
+Pamuli
+Saldanga
+Sonahar
+Sundar Dighi
+Tepriganj
+Amarkhana
+Chaklahat
+Dhakkamara
+Garinabari
+Hafizabad
+Haribhasa
+Kamat Kajal Dighi
+Magura (Pan. Sadar)
+Panchagarh
+Satmora
+Banglabandha
+Bhojanpur
+Buraburi (Tetu)
+Debnagar
+Salbahan
+Tetulia
+Tirnaihat
+Bishnupur (Badarganj)
+Damodarpur (Badarganj)
+Gopalpur (Badarganj)
+Gopinathpur (Badarganj)
+Kalu Para
+Kutubpur (Badarganj)
+Lohani Para
+Madhupur (Badar)
+Radhanagar (Badarganj)
+Ramnathpur (Badarganj)
+Alam Biditar
+Barabil
+Betgari
+Gajaghanta
+Gangachara
+Kolkanda
+Lakshmitari
+Maranea
+Nohali
+Haragachh (Kaw)
+Kawnia Balapara
+Kursha (Kaunia)
+Sarai (Kaw)
+Shahidbagh (Kaw)
+Tepa Madhupur (Kaw)
+Balarhat
+Balua Masimpur
+Bara Hazratpur
+Barabala
+Bhangni
+Chengmari
+Durgapur (Mit)
+Emadpur
+Gopalpur
+Kafrikhal
+Khoragachh
+Latifpur (Mith)
+Mayenpur
+Milanpur
+Mirzapur (Mit)
+Pairaband
+Rani Pukur
+Annadanagar
+Chhaola
+Itakumari
+Kaikuri
+Kalyani
+Kandi
+Parul
+Pirgachha
+Tambulpur
+Bara Alampur
+Bara Dargah
+Bhendabari
+Chaitrakul
+Chatra
+Kabilpur (Pir)
+Kumedpur
+Madankhali
+Mithipur
+Panchgachha
+Pirganj Sadar
+Ramnathpur (Pirganj)
+Roypur (Pir)
+Shanerhat
+Tukuria
+Chandanpat
+Haridebpur
+Khaleya
+Mominpur (Rang)
+Sadya Pushkarni
+Alampur (Tara)
+Ekarchali
+Hariarkuthi
+Kursha (Taraganj)
+Sayar
+Amjankhore
+Bara Palashbari
+Barabari
+Bhanor
+Charol
+Dhantala
+Duosuo
+Paria
+Amgaon
+Bakua
+Bhaturia
+Dangi Para
+Gedura
+Haripur
+Bairchuna
+Bhomradaha
+Daulatpur
+Hajipur
+Jabarhat
+Khangaon
+Kusha Raniganj
+Pirganj
+Saidpur
+Sengaon
+Bachor
+Dharmagarh
+Hossain Gaon
+Kashipur
+Lehemba
+Nekmarad
+Nonduar
+Rator
+Akcha
+Akhanagar
+Auliapur
+Balia
+Baragaon
+Begunbari
+Chilarang
+Debipur
+Dholarhat
+Gareya
+Jagannathpur
+Jamalpur
+Mohammadpur
+Nargun
+Rahimanpur
+Rajagaon
+Roypur
+Ruhea Paschim
+Ruhia
+Salandar
+Senua
+Sukhanpukhari
+Ajimiriganj sadar
+Bodolpur
+Jolshukha
+Kakailsiuo
+Shibpasha
+Bahubal sadar
+Lamatashi
+Mirpur
+Putijuri
+Satkapon
+Snanghat
+Vadeshwar
+Baniachang N E
+Baniachang N W
+Baniachang S E
+Baniachang S W
+Baraiuri
+Dawlatpur
+Kagapasha
+Khagaura
+Makrampur
+Manduri
+Muradpur
+Pailarkandi
+Pukra
+Subidpur
+Sujatpur
+Ahammadabad
+Chunarughat
+Deorgas
+Gazipur
+Mirashi
+Paikpara
+Ranigaon
+Satiajuri
+Shankhola
+Ubahata
+Gopaya
+Laskarpur
+Lukra
+Nizampur
+Pail
+Raziura
+Richi
+Teghoria
+Bamai
+Bullah
+Karab
+Lakhai
+Moraikari
+Muriyauk
+Adaoir
+Andiura
+Baghasura
+Bahara
+Bulla
+Chatiayin
+Chowmuhani
+Dharmaghar
+Jagadishpur
+Noapara
+Shahjahanpur
+Aushkandi
+Bara Vakoir (East)
+Bara Vakoir (West)
+Bausa
+Debpara
+Dighalbak
+Enathganj
+Gojnaipur
+Kaliarvanga
+Kargaon
+Kurshi
+Nabiganj
+Paniumda
+Brahmandora
+Nurpur
+Shayestaganj
+Barlekha
+Barni (Baralekha)
+Dakshin Shahabajpur
+Dakshinbhag(Uttar)
+Dakshinbhagh(Dakshin)
+Dasher Bazar
+Nij Bahadurpur
+Sujanagar
+Talimpur
+Uttar Shahabajpur
+Fultala
+Goalbari
+Jaifarnagar
+Paschim Juri
+Purba Juri
+Sagarnal
+Adampur (Kamal)
+Alinagar(Kamalganj)
+Islampur (Kamalganj)
+Kamalganj
+Madhabpur (Kamal)
+Munshi Bazar (Kamal)
+Patanushar
+Rahimpur
+Shamshernagar
+Baramchal
+Bhatera (Kulaura)
+Bhukshimail
+Brahman Bazar
+Hajipur(Kulaura)
+Joychandi
+Kadirpur(Kulaura)
+Karmadha
+Kulaura
+Prithim Pasha
+Routhgaon
+Sharifpur(Kulaura)
+Tilagaon
+Akhailkura
+Amtail
+Chandighat
+Ekatuna
+Giasnagar
+Kamalpur
+Kanakpur
+Khalilpur
+Manumukh
+Mostafapur
+Nazirabad
+Upper Kagabala
+Fatehpur (Raj)
+Kamar Chak
+Mansurnagar
+Munshi Bazar
+Panchgaon (Raj)
+Rajnagar (Raj)
+Tengra
+Uttarbhag
+Ashidron
+Bhunabir
+Kalapur
+Kalighat
+Mirzapur (Sreemangal)
+Rajghat
+Satgoan
+Sindurkhan
+Sreemangal
+Badaghat(Dakshin)
+Dhanpur (Bish)
+Fatehpur(Bish.Pur)
+Palash
+Sholukabad
+Afzalabad
+Charmoholla
+Chattak
+Dular Bazar
+Islampur
+Jawabazar
+Kalaruka
+Nowari
+Sayedgoan
+Singchapor
+South Khurma
+Uttar Khurma
+Vathgaon
+Dakshin Sukhairrajapur
+Dharmapasha
+Joysree
+Paikurati
+Selborash
+Uttar Sukhair Rajapur
+Bhati Para
+Charnar Char
+Derai Sarmangal
+Jagaddal
+Karimpur
+Kulanj
+Rafinagar
+Rajanagar
+Taral
+Bangla Bazar
+Bougla Bazar
+Dowarabazar
+Duhalia
+Lakshmipur
+Mannargaon
+Narsinghpur
+Pandergaon
+Surma (Dowa)
+Asharkandi
+Chilaura Haldipur
+Kalkalia
+Mirpur
+Pailgaon
+Patali
+Raniganj
+Syedpur Shaharpara
+Beheli
+Bhimkhali
+Fenarback
+Jamalganj sadar
+Sachnabazar
+Chamardani
+Dakshin Bangshikunda
+Madhyanagar
+Uttar Bangshikunda
+Dargapasa
+Joykalas
+Paschim Birgaon
+Paschim Pagla
+Patharia
+Purba Birgaon
+Purba Pagla
+Shimulback
+Atgaon
+Bahara
+Habibpur
+Shalla sadar
+Gaurarang
+Jahangirnagar
+Kathair
+Kurbannagar
+Lakshmansree
+Mohanpur
+Mollah Para
+Rangar Char
+Surma
+Badaghat (Uttar )
+Balijuri (Tahir)
+Baradal (Uttar)
+Baradal(Dakshin)
+Sreepur (Dakshin)
+Sreepur (Uttar)
+Tahirpur
+Balaganj
+Boaljur
+Dewan Bazar
+Gauripur (Paschim)
+Gauripur (Purba)
+Pailanpur (Purba)
+Alinagar(B.Bazar)
+Charkhai
+Dubag
+Kurar Bazar
+Lauta
+Mathiura
+Mollahpur
+Muria
+Sheola
+Tilpara
+Alankari
+Bishwanath
+Dasghar
+Daulatpur (Bishwanath)
+Deokalas
+Khazanchi
+Lamakazi
+Rampasha
+Ishakalas
+Islampur Paschim
+Islampur Purba
+Ranikhai Dakshin
+Ranikhai Uttar
+Telikhal
+Fenchuganj
+Ghilachhara
+Maijgaon
+Uttar Fenchuganj
+Uttar Kushiara
+Alirgaon
+Daubari
+Fatehpur(Goainghat)
+Jaflong (Paschim)
+Jaflong (Purba)
+Lengura (Goain)
+Nandirgaon
+Rustampur
+Towakul
+Amura (Paschim)
+Bade Pasha (Uttar)
+Bagha
+Bhadeshwar (Golap)
+Budbari Bazar
+Dhaka Dakshin
+Fulbari (Golapganj)
+Golapganj (Golap)
+Lakshanaband
+Lakshmipasha (Golap)
+Sharifganj
+Charikata
+Chikanagul
+Darbasta
+Fatehpur
+Jaintapur
+Nijpat
+Bara Thakuri
+Barahal
+Birasree
+Jakiganj
+Kajalshar
+Kaskanakpur
+Khalachara
+Manikpur
+Sultanpur
+Barachatul
+Dakshin Banigram
+Jhingrabari
+Kanaighat
+Paschim Lakshmiprasad
+Purba Dighirpar
+Purba Lakshmi Prasad
+Rajaganj
+Satbak (Paschim Dighirpar)
+Burunga Bazar
+Dayamir
+Goula Bazar
+Omarpur
+Osmanpur
+Paschim Pailanpur
+Sadipur
+Tajpur
+Baraikandi
+Daudpur
+Jalalpur
+Kamalbazar
+Kuchai
+Lala Bazar
+Mogla Bazar
+Mollargaon
+Silam
+Tetli
+Hatkhola
+Jalalabad
+Kandigaon
+Khadimnagar
+Khadimpara
+Mogalgaon
+Tukerbazar
+Tultikar
